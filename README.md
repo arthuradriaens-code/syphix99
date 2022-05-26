@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @syphix99
+- 👋 Hi, I’m Arthur Adriaens
 - 👀 I’m interested in physics and simulating physical processes
-- 🌱 I’m currently studying physics and astronomy and learning machine learning on my own\
+- 🌱 I’m currently studying physics and astronomy
 \
 "A computer is like air conditioning - it becomes useless when you open Windows." - Linus Torvalds
 <!---
