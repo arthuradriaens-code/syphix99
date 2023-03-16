@@ -3,7 +3,9 @@
 - 🌱 I’m currently studying physics and astronomy
 \
 \
-KISS and KILL: keep it simple stupid and keep it linux loser                             
+"Knock Knock"
+"race condition!"
+"Who's there?"
 <!---
 syphix99/syphix99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
