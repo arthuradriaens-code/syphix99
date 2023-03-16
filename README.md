@@ -3,8 +3,8 @@
 - 🌱 I’m currently studying physics and astronomy
 \
 \
-"Knock Knock"
-"race condition!"
+"Knock Knock"\
+"race condition!"\
 "Who's there?"
 <!---
 syphix99/syphix99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
