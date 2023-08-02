@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arthur Adriaens
 - 👀 I’m interested in physics and simulating physical processes
-- 🌱 I’m currently preparing for my PhD in plasma physics and nuclear fusion
+- 🌱 I’m currently doing a PhD in plasma physics and nuclear fusion
 \
 \
 "Knock Knock"\
